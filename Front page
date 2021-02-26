@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>front page</title>
+        <style>
+            h1{
+                color:blueviolet;
+                font-size: 40px;
+                text-align: center;
+                margin-top: 50px;
+
+            }
+            h2{
+                color:aqua;
+                font-size: 30px;
+                text-align: center;
+                font-style: inherit;
+
+            }
+            h3{
+                font-size:30px;
+                font-style: italic;
+
+
+            }
+            body{
+                background-color: grey;
+            }
+            img {
+                    border-radius: 50%;
+                    border: 5px solid #555;
+                 }
+                           button {
+                                display: block;
+                                 width: 30rem;
+                                 padding: 8px;
+                                 background-color: aqua;  
+                                 margin-left: 580px;     
+
+                            }
+        </style>
+    </head>
+    <body>
+        <h3>Coding games</h3>
+        <h1>PROGRAMMING LANGUAGES GAMES</h1>
+
+                  <img src="img/images (1).jpeg" Width="350" height="420" hspace="180px">
+
+                 <img src="img/IMG-20210220-WA0032.jpg" width="350" height="420" hspace="150px">
+                 <h2>Practice and learn the fun way</h2>
+                <div class="row">
+                 <div class="column">
+                 <img src="img/IMG-20210220-WA0028.jpg" width="350" height="420" vspace="90px" hspace="180px">
+                 <img src="img/p2.jpg" width="350" height="420" vspace="90px" hspace="150px"
+
+                  </div>
+                  </div>
+                  <button type="GET STARTED">GET STARTED</button>
+
+    </body>
+    </html>
